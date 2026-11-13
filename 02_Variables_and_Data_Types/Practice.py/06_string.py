@@ -1,4 +1,5 @@
 # String Variables(string data type)
+# STRING VARIABLES " " 
 
 first_name = "Yash"
 last_name = "Sahu"
